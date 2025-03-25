@@ -40,12 +40,39 @@ or
 npm install
 ```
 
-
+![image](https://github.com/user-attachments/assets/4eb1bcbf-e447-4107-a20a-53fedf87e861)
 
 ## 5. How to Build and Run the MCP Inspector Client
 
+We build and run the application executing the following commands:
 
+```
+npm run build
+```
+
+and
+
+```
+npm start
+```
+
+We confirm the MCP Client is running:
+
+![image](https://github.com/user-attachments/assets/b23c1079-0794-40a4-a831-25e98e8cec67)
+
+We open the referred web site:  **http://localhost:5173**
+
+![image](https://github.com/user-attachments/assets/42eae47d-ef4c-4fd1-a286-af89d6ef46b4)
 
 ## 6. How to run a MCP Server and Send Requests
 
+For example we can execute a NodeJS MCP Server and connect from our MCP Inspector Client
+
+We can run the NodeJS MCP Server with the following command:
+
+```
+npx -y @modelcontextprotocol/server-everything
+```
+
+Or we also can run NodeJS MCP Server 
 
