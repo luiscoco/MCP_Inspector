@@ -66,7 +66,11 @@ We open the referred web site:  **http://localhost:5173**
 
 ## 6. How to run a MCP Server and Send Requests
 
-For example we can execute a NodeJS MCP Server and connect from our MCP Inspector Client
+For example we are going to connect to the MCP Server provided by this NodeJS package:
+
+https://www.npmjs.com/package/@modelcontextprotocol/server-everything
+
+![image](https://github.com/user-attachments/assets/ae6b688b-d596-4f8a-9277-d10cf3b40d37)
 
 We can launch and connect to the NodeJS MCP Server from the MCP Inspector Client
 
