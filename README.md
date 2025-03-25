@@ -70,6 +70,12 @@ For example we can execute a NodeJS MCP Server and connect from our MCP Inspecto
 
 We can launch and connect to the NodeJS MCP Server from the MCP Inspector Client
 
+Transport Type:	**STDIO**
+
+Command:	**npx**
+
+Arguments:	**-y @modelcontextprotocol/server-everything**
+
 ![image](https://github.com/user-attachments/assets/d25435ae-6802-4c2d-805e-5ec8e73895c0)
 
 When we are connected to the MCP Server we navigate to the Tools tab
