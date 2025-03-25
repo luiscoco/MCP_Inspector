@@ -68,13 +68,7 @@ We open the referred web site:  **http://localhost:5173**
 
 For example we can execute a NodeJS MCP Server and connect from our MCP Inspector Client
 
-We can run the NodeJS MCP Server with the following command:
-
-```
-npx -y @modelcontextprotocol/server-everything
-```
-
-Or we also can run NodeJS MCP Server 
+We can launch and connect to the NodeJS MCP Server from the MCP Inspector Client
 
 ![image](https://github.com/user-attachments/assets/d25435ae-6802-4c2d-805e-5ec8e73895c0)
 
