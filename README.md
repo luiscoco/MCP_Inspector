@@ -76,3 +76,20 @@ npx -y @modelcontextprotocol/server-everything
 
 Or we also can run NodeJS MCP Server 
 
+![image](https://github.com/user-attachments/assets/d25435ae-6802-4c2d-805e-5ec8e73895c0)
+
+When we are connected to the MCP Server we navigate to the Tools tab
+
+![image](https://github.com/user-attachments/assets/20c6f815-cc35-4292-bd67-ecb856011135)
+
+We visualize the available Tools
+
+![image](https://github.com/user-attachments/assets/6b0d8fb4-5277-41c7-9358-20ba77bbabb1)
+
+We select the "echo" tool and we send a command
+
+![image](https://github.com/user-attachments/assets/d6c931ae-2a1c-49d3-8021-c80879c2dc92)
+
+We receive the echo message response
+
+![image](https://github.com/user-attachments/assets/e867c9d5-0b3b-4158-95d5-c64cd28641c3)
